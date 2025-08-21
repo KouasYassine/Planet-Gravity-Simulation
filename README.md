@@ -38,7 +38,16 @@ The simulation implements:
 - `Deplacer_Ball(Ball &D)` : updates the position of a ball according to its velocity  
 - `shock(...)` and `shockSimple(...)` : handle elastic collisions between balls  
 - `collision(...)` : detects if two balls are colliding  
-- `DisplayBall(Ball D)` and `EraseBall(Ball D)` : draw and erase balls on the screen  
+- `DisplayBall(Ball D)` and `EraseBall(Ball D)` : draw and erase balls on the screen
+  # Examples Of Implementation
+  **1. Initial Planet Orbit**  
+![Planet Orbit](Sun.gif)  
+
+**2.Collisions**  
+![Collision](Planets.gif)  
+
+**3.Missiles**  
+![Missiles](duel.gif) 
 
 ## How to Run
 
