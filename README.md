@@ -43,8 +43,8 @@ The simulation implements:
   **1. Initial Planet Orbit**  
 ![Planet Orbit](Sun.gif)  
 
-**2.Collisions**  
-![Collision](Planets.gif)  
+  **2.Collisions**  
+ ![Collision](Planets.gif)  
 
 **3.Missiles**  
 ![Missiles](duel.gif) 
